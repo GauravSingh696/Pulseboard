@@ -14,7 +14,7 @@ A modern, production-grade frontend dashboard tracking live **News**, **Trending
 
 ## 🚀 Live Demo & Preview
 
-- **Live Application Demo:** [https://pulseboard-dashboard.vercel.app](https://pulseboard-dashboard.vercel.app) *(Replace with your Vercel deployment link)*
+- **Live Application Demo:** [Click Here](https://pulseboard-dashboard.vercel.app)
 - **Demo Credentials:** The app includes mock data fallbacks and demo login sessions out-of-the-box (`alex@example.com`).
 
 ---
